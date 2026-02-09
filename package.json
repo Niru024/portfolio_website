@@ -32,4 +32,3 @@
     "vite": "^7.2.4"
   }
 }
-ssh-keygen -t ed25519 -C "gaikwadniranjan024@gmail.com"
